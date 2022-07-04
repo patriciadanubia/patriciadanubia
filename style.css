@@ -678,17 +678,21 @@ footer {
     }
     
     .about-text{
+        text-align: center;
         align-items: center;
         flex-direction: column;
         width: 90%;
     }
     .about-text h4 {
         font-size: 1.500rem;
+        text-align: center;
     }
     .section-head h4 {
         font-size: 1.500rem;
+        text-align: center;
     }
     .main{
+        text-align: center;
         flex-direction: column;
         align-items: center;
         justify-content: space-around;
