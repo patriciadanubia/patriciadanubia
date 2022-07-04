@@ -8,8 +8,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open estetica.html",
-            "file": "C:\\Users\\User\\Desktop\\Novo\\estetica.html"
+            "name": "Open index.html",
+            "file": "C:\\Users\\User\\Desktop\\Novo\\index.html"
         }
     ]
 }
