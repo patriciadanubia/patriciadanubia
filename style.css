@@ -656,7 +656,9 @@ footer {
         text-align:left;
         flex-direction: column;
     }
-
+    .title h3{
+        font-size: 1.500rem;
+    }
     .box {
         flex-direction: column;
     }
@@ -679,6 +681,12 @@ footer {
         align-items: center;
         flex-direction: column;
         width: 90%;
+    }
+    .about-text h4 {
+        font-size: 1.500rem;
+    }
+    .section-head h4 {
+        font-size: 1.500rem;
     }
     .main{
         flex-direction: column;
