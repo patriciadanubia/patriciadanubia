@@ -615,7 +615,7 @@ footer {
     text-align: center;
 }
 
-@media screen(min-width:760px){
+@media screen(max-width:760px){
     .estetic{
         display: block;
         
@@ -686,8 +686,8 @@ footer {
         justify-content: space-around;
     }
     .main img{
-        width: 20rem;
-        margin: 2rem;
+        width: 0px;
+        margin: 0px;
     }
 
      
