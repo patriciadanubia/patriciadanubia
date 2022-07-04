@@ -615,7 +615,7 @@ footer {
     text-align: center;
 }
 
-@media (max-width:800px){
+@media screen(min-width:760px){
     .estetic{
         display: block;
         
